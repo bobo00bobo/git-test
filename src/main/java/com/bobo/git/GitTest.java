@@ -9,5 +9,6 @@ public class GitTest {
         System.out.print( "hello Git!!!");
         System.out.print( "hello Git!!!2");
         System.out.print( "hello Git!!!3");
+        System.out.println("hello Git !!!4"); //hot-fix所写
     }
 }
