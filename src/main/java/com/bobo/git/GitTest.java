@@ -11,5 +11,7 @@ public class GitTest {
         System.out.print( "hello Git!!!3");
         System.out.println("hello Git !!!4"); //hot-fix所写,无冲突的合并
         System.out.println("mater test");
+        System.out.println("hello Git !!!4"); //hot-fix所写
+        System.out.println("hot-fix test");
     }
 }
